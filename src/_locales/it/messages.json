@@ -1,0 +1,194 @@
+{
+  "extensionName": {
+    "message": "IGPlus - Nascondi Reels Instagram, Pagina Esplora"
+  },
+  "extensionDescription": {
+    "message": "2025 • Open-source • Disattiva Short, video, commenti, suggerimenti, raccomandazioni... e molto altro."
+  },
+  "disabled": {
+    "message": "Hai disattivato IGPlus"
+  },
+  "header_title": {
+    "message": "IGPlus Extension"
+  },
+  "header_subtitle": {
+    "message": "Meno distrazioni, più importanza a ciò che conta."
+  },
+  "btn_donate": {
+    "message": "Donazioni"
+  },
+  "btn_support": {
+    "message": "Richiedi supporto"
+  },
+  "btn_reqfeature": {
+    "message": "Richiedi funzionalità"
+  },
+  "btn_goback": {
+    "message": "Indietro"
+  },
+  "menu_main": {
+    "message": "Funzionalità principali:"
+  },
+  "menu_sec": {
+    "message": "Funzionalità aggiuntive:"
+  },
+  "menu_palette": {
+    "message": "Palette colori / font:"
+  },
+  "n_default": {
+    "message": "Predefinito"
+  },
+  "mi_1": {
+    "message": "Attiva \"Modalità concentrazione\""
+  },
+  "mi_2": {
+    "message": "Disable the Reels page & Reels videos"
+  },
+  "mi_3": {
+    "message": "Disattiva la pagina Esplora"
+  },
+  "mi_4": {
+    "message": "Nasconti sezione Storie (Pagina principale)"
+  },
+  "mi_5": {
+    "message": "Disattiva storie ovunque"
+  },
+  "mi_6": {
+    "message": "Rendi notifica \"Nuovi messaggi\" grigia"
+  },
+  "mi_7": {
+    "message": "Disattiva notifiche \"Nuovi messaggi\""
+  },
+  "mi_8": {
+    "message": "Disattiva raccomandazioni (Pagina principale)"
+  },
+  "mi_9": {
+    "message": "Disattiva Feed (sperimentale)"
+  },
+  "mi_10": {
+    "message": "Palette colori / font:"
+  },
+  "mi_11": {
+    "message": "Disattiva contatori mi piace e follower (metriche di vanità)"
+  },
+  "mi_12": {
+    "message": "Abilita modalità scala di grigi (sperimentale)"
+  },
+  "mi_13": {
+    "message": "Rendi tutto quadrato"
+  },
+  "mi_14": {
+    "message": "Blocca tutti i video per ridurre il traffico dati"
+  },
+  "mi_15": {
+    "message": "Blocca tutti le immagini per ridurre il traffico dati"
+  },
+  "fonts_title": {
+    "message": "Seleziona font:"
+  },
+  "themes_title": {
+    "message": "Seleziona tema:"
+  },
+  "themes_label": {
+    "message": "NUOVO"
+  },
+  "themes_msg": {
+    "message": "Nuove opzioni v1.1.9"
+  },
+  "theme_1": {
+    "message": "Predefinito (Verde scuro)"
+  },
+  "theme_2": {
+    "message": "Verde chiaro"
+  },
+  "theme_3": {
+    "message": "Viola scuro"
+  },
+  "theme_4": {
+    "message": "Rosa scuro (kittens)"
+  },
+  "theme_5": {
+    "message": "Viola chiaro"
+  },
+  "theme_6": {
+    "message": "Blu scuro"
+  },
+  "theme_7": {
+    "message": "Rosso scuro"
+  },
+  "theme_8": {
+    "message": "Giallo scuro"
+  },
+  "d_title": {
+    "message": "Le donazioni mandano sostengono IGPlus."
+  },
+  "d_subtitle": {
+    "message": "Spendo molte ore ogni settimana per sistemare bug, aggiungere funzionalità e rispondere ai feedback degli utenti. Il tuo supporto è cruciale per continuare a mantenerlo."
+  },
+  "d_pp": {
+    "message": "Dona con PayPal"
+  },
+  "d_kofi": {
+    "message": "Supporta con Ko-Fi.com"
+  },
+  "d_card": {
+    "message": "Dona con carta"
+  },
+  "d_cred__1": {
+    "message": "Puoi anche suggerire IGPlus ai tuoi amici o lasciare una"
+  },
+  "d_cred__2": {
+    "message": "recensione"
+  },
+  "d_cred__3": {
+    "message": "Grazie."
+  },
+  "s_title": {
+    "message": "Problemi con IGPlus?"
+  },
+  "s_subtitle": {
+    "message": "Ecco alcune passaggi da provare:"
+  },
+  "s_res__1": {
+    "message": "Ricarica la pagina Instagram."
+  },
+  "s_res__2": {
+    "message": "Disattiva e poi attiva di nuovo IGPlus."
+  },
+  "s_res__3": {
+    "message": "Disattiva le altre estensioni."
+  },
+  "s_res__4": {
+    "message": "Disinstalla e re-installa IGPlus."
+  },
+  "s_res__5": {
+    "message": "Pulisci cache del browser."
+  },
+  "s_emailme": {
+    "message": "Se il problema persiste, manda una email a"
+  },
+  "s_effic": {
+    "message": "Per aiutarmi ad assisterti meglio, per favore includi queste informazioni:"
+  },
+  "s_detail__1": {
+    "message": "La versione di IGPlus che usi."
+  },
+  "s_detail__2": {
+    "message": "Uno screenshot o video che dimostra il problema."
+  },
+  "s_detail__3": {
+    "message": "Una descrizione dettagliata del problema."
+  },
+  "s_detail__4": {
+    "message": "La versione del tuo browser (e.g., Firefox 86.0)."
+  },
+  "mi_16": {
+    "message": "Naviga ai Direct dalla Pagina principale"
+  },
+  "mi_17": {
+    "message": "Disattiva i commenti (sperimentale)"
+  },
+  "mi_18": {
+    "message": "Nascondi il pulsante Threads"
+  }
+}
